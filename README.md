@@ -1,5 +1,7 @@
 [![Kaktus Kreatives :cactus:](https://img.shields.io/badge/%F0%9F%8C%B5-Kaktus%20Kreatives-green?style=for-the-badge)](https://kaktus.is)
 
+Have been involved in software development since 1999 as an entrepreneur, programmer, sales manager and more, both in Iceland and abroad. Connections to DK software with WordPress are my specialty, both their inventory and financial systems as well as their membership systems.
+
 <!--
 **gjonsson/gjonsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
